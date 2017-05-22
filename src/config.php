@@ -2,6 +2,8 @@
 
 return [
   'templates' => [
-    '*@*.ru', // all russion domains
+    '*@*.ru', // all russian domains
+    '*@mailru.com',
+    '*@yandex*',
   ]
 ];
